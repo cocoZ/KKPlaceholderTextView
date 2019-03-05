@@ -1,2 +1,2 @@
 # KKPlaceholderTextView
-实现占位文本UITextView, 简单设置文本内边距
+支持placeholder的UITextView, 简化设置TextView内边距
