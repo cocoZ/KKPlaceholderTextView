@@ -1,5 +1,4 @@
 # KKPlaceholderTextView
-===
 [![](https://img.shields.io/badge/pod-1.0-orange.svg)](https://cocoapods.org/pods/KKPlaceholderTextView) [![](https://img.shields.io/badge/blog-简书-E87040.svg)]()
 
 支持placeholder的UITextView, 简化设置TextView内边距
@@ -21,7 +20,6 @@
 
 Cocoapods
 ----
-全部控件构造方法扩展(推荐):
 ```objectivec
 pod 'KKPlaceholderTextView'
 ```
